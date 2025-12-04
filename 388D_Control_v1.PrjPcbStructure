@@ -1,1 +1,4 @@
-Record=TopLevelDocument|FileName=schem.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=0.Block_Diagram_main.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=0.Block_Diagram_main.SchDoc|FileName=1.GPIO.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=0.Block_Diagram_main.SchDoc|FileName=2.ADC.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=0.Block_Diagram_main.SchDoc|FileName=3.Power.SchDoc|SheetNumber=4
