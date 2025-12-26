@@ -71,7 +71,7 @@ DocumentUniqueId=SALXOPID
 
 [Document2]
 DocumentPath=1.GPIO.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -88,7 +88,7 @@ DocumentUniqueId=DKNGIECB
 
 [Document3]
 DocumentPath=2.Support.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -139,7 +139,7 @@ DocumentUniqueId=MIFMEAHV
 
 [Document6]
 DocumentPath=5.ETH.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -156,7 +156,7 @@ DocumentUniqueId=IVOOWPKU
 
 [Document7]
 DocumentPath=6.ETCAT.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -173,7 +173,7 @@ DocumentUniqueId=OWQBGGNZ
 
 [Document8]
 DocumentPath=7.Emulator.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -190,7 +190,7 @@ DocumentUniqueId=VTPEPCFO
 
 [Document9]
 DocumentPath=8.Emulator_Interface.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
