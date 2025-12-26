@@ -54,7 +54,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=0.Block_Diagram_main.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -71,7 +71,7 @@ DocumentUniqueId=SALXOPID
 
 [Document2]
 DocumentPath=1.GPIO.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -88,7 +88,7 @@ DocumentUniqueId=DKNGIECB
 
 [Document3]
 DocumentPath=2.Support.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -122,7 +122,7 @@ DocumentUniqueId=WZSPAKTE
 
 [Document5]
 DocumentPath=4.Power.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -139,7 +139,7 @@ DocumentUniqueId=MIFMEAHV
 
 [Document6]
 DocumentPath=5.ETH.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -156,7 +156,7 @@ DocumentUniqueId=IVOOWPKU
 
 [Document7]
 DocumentPath=6.ETCAT.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -173,7 +173,7 @@ DocumentUniqueId=OWQBGGNZ
 
 [Document8]
 DocumentPath=7.Emulator.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -189,6 +189,23 @@ GenerateClassCluster=0
 DocumentUniqueId=VTPEPCFO
 
 [Document9]
+DocumentPath=8.Emulator_Interface.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CAAHKREV
+
+[Document10]
 DocumentPath=Lib\388D_Control_v1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -205,7 +222,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IKCPNEXW
 
-[Document10]
+[Document11]
 DocumentPath=Lib\388D_Control_v1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
