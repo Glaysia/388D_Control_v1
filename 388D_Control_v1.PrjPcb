@@ -206,6 +206,23 @@ GenerateClassCluster=0
 DocumentUniqueId=CAAHKREV
 
 [Document10]
+DocumentPath=9.Pwm_Buffer.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CWHEDGXS
+
+[Document11]
 DocumentPath=Lib\388D_Control_v1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,7 +239,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IKCPNEXW
 
-[Document11]
+[Document12]
 DocumentPath=Lib\388D_Control_v1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -239,7 +256,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JRXQPCGU
 
-[Document12]
+[Document13]
 DocumentPath=388D_Control_v1_PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -256,7 +273,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OIJSLFUQ
 
-[Document13]
+[Document14]
 DocumentPath=388D_Control_v1_PCB1_harry.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -273,7 +290,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IMTWONGU
 
-[Document14]
+[Document15]
 DocumentPath=388D_Control_v1_PCB1_jiin.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -290,7 +307,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TSMSDTGK
 
-[Document15]
+[Document16]
 DocumentPath=388D_Control_v1.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -306,23 +323,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document16]
-DocumentPath=9.Pwm_Buffer.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CWHEDGXS
 
 [Configuration1]
 Name=Sources
