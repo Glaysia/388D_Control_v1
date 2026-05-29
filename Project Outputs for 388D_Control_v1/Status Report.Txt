@@ -1,12 +1,24 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [388D_Control_v1.PrjPcb]
-   Generated File[388D_Control_v1_PCB1.TXT]
-   Generated File[388D_Control_v1_PCB1.LDP]
-   Generated File[388D_Control_v1_PCB1.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [388D_Control_v1.PrjPcb]
+   Generated File[388D_Control_v1_PCB1.GTO]
+   Generated File[388D_Control_v1_PCB1.GTP]
+   Generated File[388D_Control_v1_PCB1.GTS]
+   Generated File[388D_Control_v1_PCB1.GTL]
+   Generated File[388D_Control_v1_PCB1.G1]
+   Generated File[388D_Control_v1_PCB1.G2]
+   Generated File[388D_Control_v1_PCB1.G3]
+   Generated File[388D_Control_v1_PCB1.G4]
+   Generated File[388D_Control_v1_PCB1.GBL]
+   Generated File[388D_Control_v1_PCB1.GBS]
+   Generated File[388D_Control_v1_PCB1.GBP]
+   Generated File[388D_Control_v1_PCB1.GBO]
+   Generated File[388D_Control_v1_PCB1.GM]
+   Generated File[388D_Control_v1_PCB1.EXTREP]
+   Generated File[388D_Control_v1_PCB1.REP]
 
 
-Files Generated   : 3
+Files Generated   : 15
 Documents Printed : 0
 
-Finished Output Generation At 오후 3:29:04 On 2026-05-28
+Finished Output Generation At 오후 2:49:29 On 2026-05-29
