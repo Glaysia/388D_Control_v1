@@ -1,22 +1,22 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: 388D_Control_v1_PCB1.GBR   2026-05-29  오후 2:49:29
+Gerber File Extension Report For: 388D_Control_v1_PCB1.GBR   2026-05-29  오후 4:22:22
 ------------------------------------------------------------------------------------------
 
 
 ------------------------------------------------------------------------------------------
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
-.GTO                Top Overlay                             
-.GTP                Top Paste                               
-.GTS                Top Solder                              
-.GTL                Top Layer                               
-.G1                 Singal Layer 2                          
-.G2                 Signal layer 3                          
-.G3                 Signal Layer 4                          
-.G4                 Signal Layer 5                          
-.GBL                Bottom Layer                            
-.GBS                Bottom Solder                           
-.GBP                Bottom Paste                            
-.GBO                Bottom Overlay                          
-.GM                 Profile                                 
+.gbr                Top Overlay                             
+.gbr                Top Paste                               
+.gbr                Top Solder                              
+.gbr                Top Layer                               
+.gbr                Singal Layer 2                          
+.gbr                Signal layer 3                          
+.gbr                Signal Layer 4                          
+.gbr                Signal Layer 5                          
+.gbr                Bottom Layer                            
+.gbr                Bottom Solder                           
+.gbr                Bottom Paste                            
+.gbr                Bottom Overlay                          
+.gbr                Profile                                 
 ------------------------------------------------------------------------------------------

@@ -1,19 +1,19 @@
 Output: Gerber Files
 Type  : Gerber
 From  : Variant [[No Variations]] of Project [388D_Control_v1.PrjPcb]
-   Generated File[388D_Control_v1_PCB1.GTO]
-   Generated File[388D_Control_v1_PCB1.GTP]
-   Generated File[388D_Control_v1_PCB1.GTS]
-   Generated File[388D_Control_v1_PCB1.GTL]
-   Generated File[388D_Control_v1_PCB1.G1]
-   Generated File[388D_Control_v1_PCB1.G2]
-   Generated File[388D_Control_v1_PCB1.G3]
-   Generated File[388D_Control_v1_PCB1.G4]
-   Generated File[388D_Control_v1_PCB1.GBL]
-   Generated File[388D_Control_v1_PCB1.GBS]
-   Generated File[388D_Control_v1_PCB1.GBP]
-   Generated File[388D_Control_v1_PCB1.GBO]
-   Generated File[388D_Control_v1_PCB1.GM]
+   Generated File[388D_Control_v1_PCB1_Legend_Top.gbr]
+   Generated File[388D_Control_v1_PCB1_Paste_Top.gbr]
+   Generated File[388D_Control_v1_PCB1_Soldermask_Top.gbr]
+   Generated File[388D_Control_v1_PCB1_Copper_Signal_Top.gbr]
+   Generated File[388D_Control_v1_PCB1_Copper_Signal_1.gbr]
+   Generated File[388D_Control_v1_PCB1_Copper_Signal_2.gbr]
+   Generated File[388D_Control_v1_PCB1_Copper_Signal_3.gbr]
+   Generated File[388D_Control_v1_PCB1_Copper_Signal_4.gbr]
+   Generated File[388D_Control_v1_PCB1_Copper_Signal_Bot.gbr]
+   Generated File[388D_Control_v1_PCB1_Soldermask_Bot.gbr]
+   Generated File[388D_Control_v1_PCB1_Paste_Bot.gbr]
+   Generated File[388D_Control_v1_PCB1_Legend_Bot.gbr]
+   Generated File[388D_Control_v1_PCB1_Profile.gbr]
    Generated File[388D_Control_v1_PCB1.EXTREP]
    Generated File[388D_Control_v1_PCB1.REP]
 
@@ -21,4 +21,4 @@ From  : Variant [[No Variations]] of Project [388D_Control_v1.PrjPcb]
 Files Generated   : 15
 Documents Printed : 0
 
-Finished Output Generation At 오후 2:49:29 On 2026-05-29
+Finished Output Generation At 오후 4:22:23 On 2026-05-29
